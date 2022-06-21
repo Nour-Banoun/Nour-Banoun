@@ -1,4 +1,12 @@
-### Hola Amigos 👋
+###  Hola Amigos 👋
+
+- PERN stack Web-developer 
+- Working with Express.js & Node.js for the Backend
+- Working with React.js for the Frontend
+- Database design and Custom for PostgreSql & MySql databases
+- Code debuging and tracking for (Python, C++, PHP, JAVA, C#)
+- Linux System Admistrator 
+- System Engineer under the process 
 
 <!--
 **NourBanoon/NourBanoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
