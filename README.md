@@ -2,10 +2,10 @@
 
 - Linux System Admistrator 
 - System Engineer under the process 
-- Database design and Custom for PostgreSql & MySql databases
-- PERN stack Web-developer 
-- Working with Express.js & Node.js for the Backend
-- Working with React.js for the Frontend
+- Database Design & Custom for PostgreSql & MySql databases
+- PERN stack Web-Developer 
+- Work with Express.js & Node.js for the Backend Development
+- Work with React.js & Bootstrap for the Frontend Development
 - Code debuging and tracking for (Python, C++, PHP, JAVA, C#)
 
 
