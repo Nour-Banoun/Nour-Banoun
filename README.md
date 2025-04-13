@@ -1,7 +1,7 @@
 ###  Hola Amigos 👋
 
 - Linux System Admistrator 
-- System Engineer under the process 
+- System and Cloud Engineer
 - Database Design & Custom for PostgreSql & MySql databases
 - PERN stack Web-Developer 
 - Work with Express.js & Node.js for the Backend Development
